@@ -1,2 +1,2 @@
 # lavi
-This i smy fist Repository
+This is my fist Repository
